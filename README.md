@@ -8,9 +8,7 @@
 - [Getting Started](#getting-started)
 - [What's Included](#tools-included-in-this-repo)
 - [Bugs and Feature Requests](#bugs-and-feature-requests)
-- [Creator](#creator)
-- [Copyright and License](#copyright-and-license)
-  
+ 
 
 ## Why
 
