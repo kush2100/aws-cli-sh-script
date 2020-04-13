@@ -153,13 +153,3 @@ Debian/Ubuntu:
 Have a bug or a feature request? The [issue tracker](https://github.com/swoodford/aws/issues) is the preferred channel for bug reports, feature requests and submitting pull requests.
 If your problem or idea is not addressed yet, [please open a new issue](https://github.com/swoodford/aws/issues/new).
 
-## Creator
-
-**Shawn Woodford**
-
-- <https://shawnwoodford.com>
-- <https://github.com/swoodford>
-
-## Copyright and License
-
-Code and Documentation Copyright 2012-2018 Shawn Woodford. Code released under the [Apache License 2.0](https://github.com/swoodford/aws/blob/master/LICENSE.md).
